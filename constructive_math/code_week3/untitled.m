@@ -1,0 +1,1 @@
+newton(@(x) x-sin(x), @(x) 1-cos(x), 0.5, 1e-10)
